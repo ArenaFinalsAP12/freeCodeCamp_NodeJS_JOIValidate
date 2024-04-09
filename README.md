@@ -1,0 +1,1 @@
+This is the code from the YouTube tutorial "Learn Node.js - Full Tutorial for Beginners" (https://www.youtube.com/watch?v=RLtyhwFtXQA), specifically the section "User Input Validation with Express and JOI".
